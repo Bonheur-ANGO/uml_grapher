@@ -1,6 +1,5 @@
 package fr.lernejo.umlgrapher;
 
 public enum GraphType {
-    Mermaid,
-    Basic
+    Mermaid
 }
